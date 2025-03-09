@@ -5,7 +5,7 @@
 
 - Hackathon Winner [Surfocuskibidi](surfocuskibidi.netlify.app/)
 
-- Top Skills: **React, TypeScript, JavaScript, Python**
+- Top Skills: **Java, Spring, React, TypeScript, JavaScript, Python**
 
 - 📫 How to reach me **tamdangwork@gmail.com**
 
