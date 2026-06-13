@@ -1,15 +1,11 @@
 # 🧑‍💻 Hi, It's Tam Dang!
 ## 🚀 What I’m Working On
 
-🧠 **CodeBuddy** — Chrome extension + Next.js tooling for LeetCode productivity  
-📊 **ADViCE** — Backend-driven simulation platform (FastAPI, SQL, DES)  
-🔐 **Cybersecurity CTFs** — Blue-Team & forensics (NCAE, SHPE, HackTheBox)  
-⚙️ **Open Source** — Production bug fixes and feature PRs
-
+🧠 **LinkedIn** — Software Engineer Intern Summer 2026
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skillsets
 
 **Languages**
 - Python, TypeScript, JavaScript, C++, SQL
