@@ -8,7 +8,7 @@
 ## 🛠️ Skillsets
 
 **Languages**
-- Python, TypeScript, JavaScript, C++, SQL
+- Java, Python, TypeScript, JavaScript, C++, SQL
 
 **Backend**
 - FastAPI, Flask, Node.js
